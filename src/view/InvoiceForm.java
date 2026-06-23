@@ -8,6 +8,6 @@ package view;
  *
  * @author Lvn
  */
-public class InvoiceForm {
+public class PembayaranForm {
     
 }
